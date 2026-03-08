@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "GoFresh UAE",
+  "name": "GoFresh UAE | Food Import & Export",
   "icons": [
     {
       "src": "favicon.ico",
@@ -20,6 +20,7 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#1a9e4a",
+  "background_color": "#fdf8f0",
+  "description": "GoFresh UAE connects international food suppliers with UAE distributors and buyers."
 }
